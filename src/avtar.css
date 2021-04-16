@@ -1,0 +1,13 @@
+.main img{
+    width: 220px;
+    height: 220px;
+
+}
+.main{
+    justify-content: space-between;
+    margin-left: 10;
+    flex: auto;
+}
+.title {
+    color: #282c34;
+}
